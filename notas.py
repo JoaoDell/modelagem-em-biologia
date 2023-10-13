@@ -1,10 +1,10 @@
 import numpy as np
 
-projs = np.array([10.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0])
+projs = np.array([10.0, 10.0, 10.0, 10.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0])
 
 freq = np.array([1])
 
-auto = 0.0
+auto = 10.0
 
 fontas = 0.0
 
